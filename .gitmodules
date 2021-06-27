@@ -1,0 +1,3 @@
+[submodule "themes/twenty-eleven"]
+	path = themes/twenty-eleven
+	url = https://github.com/onyxblade/hexo-theme-twenty-eleven
