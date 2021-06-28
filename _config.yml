@@ -98,6 +98,10 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: twenty-eleven
+theme_config:
+  menu:
+    中文: '/categories/中文/'
+    English: '/categories/English'
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
